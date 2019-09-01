@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ejohshaif.somuchfor.com/sitemap.xml
